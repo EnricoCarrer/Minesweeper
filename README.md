@@ -1,0 +1,2 @@
+# Minesweeper (Data Structures - 2D Lists)
+A program that takes an input grid of '#' and '-' (where each hash represents a mine and each dash represents a mine-free spot) and then uses a function to return a new grid where each dash is replaced by a digit. Each of these digits indicates the number of mines immediately adjacent to that cell in every direction (that is horizontally, vertically and diagonally).
